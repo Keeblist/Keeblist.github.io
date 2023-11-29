@@ -22,7 +22,7 @@ body {
   opacity: 0;
   text-align: center;
   position: absolute;
-  animation-duration: 4s;
+  animation-duration: 5s;
   animation-name: slidein;
   animation-fill-mode: forwards;
 }
